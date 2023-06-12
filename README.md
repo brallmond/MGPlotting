@@ -19,5 +19,3 @@ root -l output_file.root
 root [0] h_t1pt->Draw()
 
 and other available branch names.
-
-Planning to switch to pyroot in the near future.
